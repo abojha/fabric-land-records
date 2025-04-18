@@ -7,7 +7,7 @@
 First, clone your GitHub project repository:
 
 ```bash
-git clone https://github.com/your-username/land-record-blockchain.git
+git clone https://github.com/abojha/fabric-land-records
 cd land-record-blockchain
 ```
 
@@ -102,7 +102,7 @@ This sets:
 
 ## 🌐 4. Setup Fabric API Server
 
-Inside fabric-api:
+In new Termina and Inside fabric-api:
 
 ```bash
 cd fabric-api
